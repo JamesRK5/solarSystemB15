@@ -8,8 +8,8 @@ public class Main {
 
         featureSun sun = new featureSun();
         sun.color = "Blue";
-        sun.radius = 73659128675;
-        sun.temperature = true;
+        sun.radius = "73659128675";
+        sun.temperature = "fixed error";
 
 
     }
