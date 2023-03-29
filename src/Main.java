@@ -6,6 +6,11 @@ public class Main {
         solar.moon = "2";
         solar.planets = "3";
 
+        featureSun sun = new featureSun();
+        sun.color = "Blue";
+        sun.radius = "73659128675";
+        sun.temperature = "fixed error";
+
 
     }
 }
